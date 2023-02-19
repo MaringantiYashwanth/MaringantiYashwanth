@@ -6,5 +6,5 @@
 
 <!---
 MaringantiYashwanth/MaringantiYashwanth is a ✨ special ✨ repository because I am going to contribute to open source from 12-Dec-2022. 
-I hope I can contribute every day. I request my 1 month future self to make atleast 10 contributions on ReactJS project.
+I hope I can contribute every day. 
 --->
